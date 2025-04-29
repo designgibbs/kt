@@ -14,7 +14,7 @@
 	"scene":0,
 	"scenes":[
 		{
-			"name":"Scene",
+			"name":"scene",
 			"nodes":[
 				0,
 				1,
@@ -193,11 +193,11 @@
 		},
 		{
 			"mesh":6,
-			"name":"Floor.002"
+			"name":"floor.002"
 		},
 		{
 			"mesh":7,
-			"name":"Roof.001",
+			"name":"roof.001",
 			"translation":[
 				0,
 				3.1500000953674316,
@@ -206,7 +206,7 @@
 		},
 		{
 			"mesh":8,
-			"name":"Stairs.001",
+			"name":"stairs.001",
 			"translation":[
 				2.8086092472076416,
 				0.14251656830310822,
@@ -215,7 +215,7 @@
 		},
 		{
 			"mesh":9,
-			"name":"Stairs.002",
+			"name":"stairs.002",
 			"translation":[
 				2.8086092472076416,
 				0.14251656830310822,
@@ -224,7 +224,7 @@
 		},
 		{
 			"mesh":10,
-			"name":"Wall.005",
+			"name":"wall.005",
 			"translation":[
 				3.8499999046325684,
 				0,
@@ -233,7 +233,7 @@
 		},
 		{
 			"mesh":11,
-			"name":"Wall.006",
+			"name":"wall.006",
 			"translation":[
 				3.8499999046325684,
 				0,
@@ -242,7 +242,7 @@
 		},
 		{
 			"mesh":12,
-			"name":"Carpet",
+			"name":"carpet",
 			"translation":[
 				2.3156538009643555,
 				-0.0003265724517405033,
@@ -251,7 +251,7 @@
 		},
 		{
 			"mesh":13,
-			"name":"Stairs.003",
+			"name":"stairs.003",
 			"translation":[
 				2.8086092472076416,
 				0.14251656830310822,
@@ -260,7 +260,7 @@
 		},
 		{
 			"mesh":14,
-			"name":"Roof.002",
+			"name":"roof.002",
 			"translation":[
 				3.0493757724761963,
 				3.0620100498199463,
@@ -269,7 +269,7 @@
 		},
 		{
 			"mesh":15,
-			"name":"Wall.001",
+			"name":"wall.001",
 			"rotation":[
 				0,
 				-0.7071068286895752,
@@ -284,7 +284,7 @@
 		},
 		{
 			"mesh":16,
-			"name":"Plane",
+			"name":"plane",
 			"rotation":[
 				0.7071068286895752,
 				0,
@@ -310,7 +310,7 @@
 			"children":[
 				17
 			],
-			"name":"Coffee Table",
+			"name":"coffee table",
 			"rotation":[
 				0,
 				-1,
@@ -324,7 +324,7 @@
 			]
 		},
 		{
-			"name":"Coffee Table.001",
+			"name":"coffee table.001",
 			"rotation":[
 				0,
 				-1,
@@ -339,7 +339,7 @@
 		},
 		{
 			"mesh":18,
-			"name":"Back cushion 2.004",
+			"name":"back cushion 2.004",
 			"rotation":[
 				-0.14037996530532837,
 				0.5508012771606445,
@@ -359,7 +359,7 @@
 		},
 		{
 			"mesh":19,
-			"name":"Back Seat.008",
+			"name":"back seat.008",
 			"rotation":[
 				0,
 				0.5588671565055847,
@@ -374,7 +374,7 @@
 		},
 		{
 			"mesh":20,
-			"name":"Seat.008",
+			"name":"seat.008",
 			"rotation":[
 				0,
 				0.5588671565055847,
@@ -414,7 +414,7 @@
 		},
 		{
 			"mesh":22,
-			"name":"Legs.004",
+			"name":"legs.004",
 			"rotation":[
 				0,
 				0.5588671565055847,
@@ -471,7 +471,7 @@
 		},
 		{
 			"mesh":24,
-			"name":"Seat.002",
+			"name":"seat.002",
 			"translation":[
 				2.1684036254882812,
 				0.3349388539791107,
@@ -494,7 +494,7 @@
 		},
 		{
 			"mesh":26,
-			"name":"Back Seat.002",
+			"name":"back seat.002",
 			"translation":[
 				2.168205976486206,
 				0.1668349802494049,
@@ -503,7 +503,7 @@
 		},
 		{
 			"mesh":27,
-			"name":"Back cushion.001",
+			"name":"back cushion.001",
 			"rotation":[
 				-0.16928395628929138,
 				0,
@@ -518,7 +518,7 @@
 		},
 		{
 			"mesh":28,
-			"name":"Back cushion 2.001",
+			"name":"back cushion 2.001",
 			"rotation":[
 				-0.16928395628929138,
 				0,
@@ -552,7 +552,7 @@
 		},
 		{
 			"mesh":29,
-			"name":"Legs.001",
+			"name":"legs.001",
 			"scale":[
 				0.035627737641334534,
 				0.035627737641334534,
@@ -566,7 +566,7 @@
 		},
 		{
 			"mesh":30,
-			"name":"Wall.002",
+			"name":"wall.002",
 			"translation":[
 				0,
 				0,
@@ -575,7 +575,7 @@
 		},
 		{
 			"mesh":31,
-			"name":"Wall.010",
+			"name":"wall.010",
 			"translation":[
 				0,
 				0,
@@ -584,7 +584,7 @@
 		},
 		{
 			"mesh":32,
-			"name":"Wall.009",
+			"name":"wall.009",
 			"rotation":[
 				0,
 				-0.7071067094802856,
@@ -599,7 +599,7 @@
 		},
 		{
 			"mesh":33,
-			"name":"Floor.001",
+			"name":"floor.001",
 			"translation":[
 				5.993019104003906,
 				-0.10251615941524506,
@@ -608,7 +608,7 @@
 		},
 		{
 			"mesh":34,
-			"name":"Wall.003",
+			"name":"wall.003",
 			"rotation":[
 				0,
 				1,
@@ -623,7 +623,7 @@
 		},
 		{
 			"mesh":35,
-			"name":"Tree Beech.001",
+			"name":"tree beech.001",
 			"rotation":[
 				0,
 				-0.08820027858018875,
@@ -658,7 +658,7 @@
 		},
 		{
 			"mesh":37,
-			"name":"Fall Leaf Small.4511",
+			"name":"fall leaf small.4511",
 			"rotation":[
 				-0.12722517549991608,
 				0.8919064402580261,
@@ -702,7 +702,7 @@
 		},
 		{
 			"mesh":40,
-			"name":"Wall.012",
+			"name":"wall.012",
 			"translation":[
 				-6.007247447967529,
 				3.437471389770508,
@@ -726,7 +726,7 @@
 		},
 		{
 			"mesh":42,
-			"name":"Wall.014",
+			"name":"wall.014",
 			"translation":[
 				-11.994535446166992,
 				0,
@@ -735,7 +735,7 @@
 		},
 		{
 			"mesh":43,
-			"name":"3 Legs Table.001",
+			"name":"3 legs table.001",
 			"scale":[
 				0.03140348941087723,
 				0.03140348941087723,
@@ -901,7 +901,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Glass spacer",
+			"name":"glass spacer",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.3515625,
@@ -2436,7 +2436,7 @@
 			]
 		},
 		{
-			"name":"Plane.001",
+			"name":"plane.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -3827,7 +3827,7 @@
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled-13.ktx2"
 		},
 		{

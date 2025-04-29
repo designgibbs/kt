@@ -833,7 +833,7 @@
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"Aluminium",
+			"name":"aluminium",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.12519338726997375,
@@ -846,7 +846,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.002",
+			"name":"material.002",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.10961294919252396,
@@ -860,7 +860,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Gasket",
+			"name":"gasket",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0,
@@ -888,7 +888,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Steel",
+			"name":"steel",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.06016761437058449,
@@ -922,7 +922,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Floor",
+			"name":"floor",
 			"normalTexture":{
 				"index":0
 			},
@@ -948,7 +948,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Celling",
+			"name":"celling",
 			"normalTexture":{
 				"index":2,
 				"texCoord":1
@@ -1022,7 +1022,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Celling.001",
+			"name":"celling.001",
 			"normalTexture":{
 				"index":8
 			},
@@ -1067,7 +1067,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Carpet.001",
+			"name":"carpet.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":12,
@@ -1110,7 +1110,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Celling.002",
+			"name":"celling.002",
 			"normalTexture":{
 				"index":14
 			},
@@ -1159,7 +1159,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Celling.003",
+			"name":"celling.003",
 			"normalTexture":{
 				"index":18
 			},
@@ -1173,7 +1173,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Brass polished",
+			"name":"brass polished",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1194,7 +1194,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Cloth Fabric",
+			"name":"cloth fabric",
 			"normalTexture":{
 				"index":20
 			},
@@ -1218,7 +1218,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Cloth Fabric.001",
+			"name":"cloth fabric.001",
 			"normalTexture":{
 				"index":23
 			},
@@ -1242,7 +1242,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Cloth Fabric.002",
+			"name":"cloth fabric.002",
 			"normalTexture":{
 				"index":26
 			},
@@ -1266,7 +1266,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Cloth Fabric.003",
+			"name":"cloth fabric.003",
 			"normalTexture":{
 				"index":29
 			},
@@ -1282,7 +1282,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Brass polished.001",
+			"name":"brass polished.001",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1297,7 +1297,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Brass polished.002",
+			"name":"brass polished.002",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.004",
+			"name":"material.004",
 			"normalTexture":{
 				"index":34,
 				"texCoord":1
@@ -1331,7 +1331,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.006",
+			"name":"material.006",
 			"normalTexture":{
 				"index":37
 			},
@@ -1347,7 +1347,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.005",
+			"name":"material.005",
 			"normalTexture":{
 				"index":40
 			},
@@ -1363,7 +1363,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.003",
+			"name":"material.003",
 			"normalTexture":{
 				"index":43
 			},
@@ -1379,7 +1379,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.001",
+			"name":"material.001",
 			"normalTexture":{
 				"index":46
 			},
@@ -1395,7 +1395,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Brass polished.004",
+			"name":"brass polished.004",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1410,7 +1410,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material",
+			"name":"material",
 			"normalTexture":{
 				"index":50
 			},
@@ -1426,7 +1426,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Wall",
+			"name":"wall",
 			"normalTexture":{
 				"index":53
 			},
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Wall.001",
+			"name":"wall.001",
 			"normalTexture":{
 				"index":56,
 				"scale":3.1999998092651367
@@ -1465,7 +1465,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Floor.002",
+			"name":"floor.002",
 			"normalTexture":{
 				"index":58,
 				"scale":0.5
@@ -1480,7 +1480,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Wall.002",
+			"name":"wall.002",
 			"normalTexture":{
 				"index":60,
 				"scale":3.1999998092651367
@@ -1502,7 +1502,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"Branches.001",
+			"name":"branches.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":62
@@ -1513,7 +1513,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.008",
+			"name":"material.008",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":63
@@ -1524,7 +1524,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.009",
+			"name":"material.009",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":64
@@ -1535,7 +1535,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.010",
+			"name":"material.010",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":65
@@ -1546,7 +1546,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.013",
+			"name":"material.013",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":66
@@ -1557,7 +1557,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.014",
+			"name":"material.014",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":67
@@ -1568,7 +1568,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.011",
+			"name":"material.011",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":68
@@ -1579,7 +1579,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.012",
+			"name":"material.012",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":69
@@ -1590,7 +1590,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.016",
+			"name":"material.016",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":70
@@ -1601,7 +1601,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.018",
+			"name":"material.018",
 			"normalTexture":{
 				"index":71,
 				"scale":1.5
@@ -1618,7 +1618,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.019",
+			"name":"material.019",
 			"normalTexture":{
 				"index":74
 			},
@@ -1634,7 +1634,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.020",
+			"name":"material.020",
 			"normalTexture":{
 				"index":77
 			},
@@ -1650,7 +1650,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.021",
+			"name":"material.021",
 			"normalTexture":{
 				"index":80,
 				"scale":0.2900000214576721
@@ -1667,7 +1667,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"Material.022",
+			"name":"material.022",
 			"normalTexture":{
 				"index":83
 			},
@@ -3642,12 +3642,12 @@
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"4K-concrete_white-normal",
+			"name":"4k-concrete_white-normal",
 			"uri":"4k-concrete_white-normal.ktx2"
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled.ktx2"
 		},
 		{
@@ -3662,7 +3662,7 @@
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled-2.ktx2"
 		},
 		{

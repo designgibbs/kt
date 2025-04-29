@@ -749,7 +749,7 @@
 		},
 		{
 			"mesh":44,
-			"name":"Clay Pot.005",
+			"name":"clay Pot.005",
 			"scale":[
 				0.045812904834747314,
 				0.045812904834747314,
@@ -763,7 +763,7 @@
 		},
 		{
 			"mesh":45,
-			"name":"Clay Pot.001",
+			"name":"clay Pot.001",
 			"scale":[
 				0.0389624759554863,
 				0.0389624759554863,
@@ -777,7 +777,7 @@
 		},
 		{
 			"mesh":46,
-			"name":"Clay Pot.003",
+			"name":"clay Pot.003",
 			"scale":[
 				0.020009828731417656,
 				0.020009828731417656,
@@ -802,7 +802,7 @@
 			"children":[
 				52
 			],
-			"name":"Coffee Table.003",
+			"name":"coffee Table.003",
 			"rotation":[
 				0,
 				-1,
@@ -817,7 +817,7 @@
 		},
 		{
 			"mesh":48,
-			"name":"Clay Pot.004",
+			"name":"clay Pot.004",
 			"scale":[
 				0.02577895298600197,
 				0.02577895298600197,
@@ -3677,17 +3677,17 @@
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled-3.ktx2"
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled-4.ktx2"
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled-5.ktx2"
 		},
 		{
@@ -3707,7 +3707,7 @@
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled-6.ktx2"
 		},
 		{
@@ -3727,7 +3727,7 @@
 		},
 		{
 			"mimeType":"image/ktx2",
-			"name":"Untitled",
+			"name":"untitled",
 			"uri":"untitled-7.ktx2"
 		},
 		{

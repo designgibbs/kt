@@ -14,7 +14,7 @@
 	"scene":0,
 	"scenes":[
 		{
-			"name":"scene",
+			"name":"Scene",
 			"nodes":[
 				0,
 				1,
@@ -193,11 +193,11 @@
 		},
 		{
 			"mesh":6,
-			"name":"floor.002"
+			"name":"Floor.002"
 		},
 		{
 			"mesh":7,
-			"name":"roof.001",
+			"name":"Roof.001",
 			"translation":[
 				0,
 				3.1500000953674316,
@@ -206,7 +206,7 @@
 		},
 		{
 			"mesh":8,
-			"name":"stairs.001",
+			"name":"Stairs.001",
 			"translation":[
 				2.8086092472076416,
 				0.14251656830310822,
@@ -215,7 +215,7 @@
 		},
 		{
 			"mesh":9,
-			"name":"stairs.002",
+			"name":"Stairs.002",
 			"translation":[
 				2.8086092472076416,
 				0.14251656830310822,
@@ -224,7 +224,7 @@
 		},
 		{
 			"mesh":10,
-			"name":"wall.005",
+			"name":"Wall.005",
 			"translation":[
 				3.8499999046325684,
 				0,
@@ -233,7 +233,7 @@
 		},
 		{
 			"mesh":11,
-			"name":"wall.006",
+			"name":"Wall.006",
 			"translation":[
 				3.8499999046325684,
 				0,
@@ -242,7 +242,7 @@
 		},
 		{
 			"mesh":12,
-			"name":"carpet",
+			"name":"Carpet",
 			"translation":[
 				2.3156538009643555,
 				-0.0003265724517405033,
@@ -251,7 +251,7 @@
 		},
 		{
 			"mesh":13,
-			"name":"stairs.003",
+			"name":"Stairs.003",
 			"translation":[
 				2.8086092472076416,
 				0.14251656830310822,
@@ -260,7 +260,7 @@
 		},
 		{
 			"mesh":14,
-			"name":"roof.002",
+			"name":"Roof.002",
 			"translation":[
 				3.0493757724761963,
 				3.0620100498199463,
@@ -269,7 +269,7 @@
 		},
 		{
 			"mesh":15,
-			"name":"wall.001",
+			"name":"Wall.001",
 			"rotation":[
 				0,
 				-0.7071068286895752,
@@ -284,7 +284,7 @@
 		},
 		{
 			"mesh":16,
-			"name":"plane",
+			"name":"Plane",
 			"rotation":[
 				0.7071068286895752,
 				0,
@@ -310,7 +310,7 @@
 			"children":[
 				17
 			],
-			"name":"coffee table",
+			"name":"Coffee Table",
 			"rotation":[
 				0,
 				-1,
@@ -324,7 +324,7 @@
 			]
 		},
 		{
-			"name":"coffee table.001",
+			"name":"Coffee Table.001",
 			"rotation":[
 				0,
 				-1,
@@ -339,7 +339,7 @@
 		},
 		{
 			"mesh":18,
-			"name":"back cushion 2.004",
+			"name":"Back cushion 2.004",
 			"rotation":[
 				-0.14037996530532837,
 				0.5508012771606445,
@@ -359,7 +359,7 @@
 		},
 		{
 			"mesh":19,
-			"name":"back seat.008",
+			"name":"Back Seat.008",
 			"rotation":[
 				0,
 				0.5588671565055847,
@@ -374,7 +374,7 @@
 		},
 		{
 			"mesh":20,
-			"name":"seat.008",
+			"name":"Seat.008",
 			"rotation":[
 				0,
 				0.5588671565055847,
@@ -414,7 +414,7 @@
 		},
 		{
 			"mesh":22,
-			"name":"legs.004",
+			"name":"Legs.004",
 			"rotation":[
 				0,
 				0.5588671565055847,
@@ -471,7 +471,7 @@
 		},
 		{
 			"mesh":24,
-			"name":"seat.002",
+			"name":"Seat.002",
 			"translation":[
 				2.1684036254882812,
 				0.3349388539791107,
@@ -494,7 +494,7 @@
 		},
 		{
 			"mesh":26,
-			"name":"back seat.002",
+			"name":"Back Seat.002",
 			"translation":[
 				2.168205976486206,
 				0.1668349802494049,
@@ -503,7 +503,7 @@
 		},
 		{
 			"mesh":27,
-			"name":"back cushion.001",
+			"name":"Back cushion.001",
 			"rotation":[
 				-0.16928395628929138,
 				0,
@@ -518,7 +518,7 @@
 		},
 		{
 			"mesh":28,
-			"name":"back cushion 2.001",
+			"name":"Back cushion 2.001",
 			"rotation":[
 				-0.16928395628929138,
 				0,
@@ -552,7 +552,7 @@
 		},
 		{
 			"mesh":29,
-			"name":"legs.001",
+			"name":"Legs.001",
 			"scale":[
 				0.035627737641334534,
 				0.035627737641334534,
@@ -566,7 +566,7 @@
 		},
 		{
 			"mesh":30,
-			"name":"wall.002",
+			"name":"Wall.002",
 			"translation":[
 				0,
 				0,
@@ -575,7 +575,7 @@
 		},
 		{
 			"mesh":31,
-			"name":"wall.010",
+			"name":"Wall.010",
 			"translation":[
 				0,
 				0,
@@ -584,7 +584,7 @@
 		},
 		{
 			"mesh":32,
-			"name":"wall.009",
+			"name":"Wall.009",
 			"rotation":[
 				0,
 				-0.7071067094802856,
@@ -599,7 +599,7 @@
 		},
 		{
 			"mesh":33,
-			"name":"floor.001",
+			"name":"Floor.001",
 			"translation":[
 				5.993019104003906,
 				-0.10251615941524506,
@@ -608,7 +608,7 @@
 		},
 		{
 			"mesh":34,
-			"name":"wall.003",
+			"name":"Wall.003",
 			"rotation":[
 				0,
 				1,
@@ -623,7 +623,7 @@
 		},
 		{
 			"mesh":35,
-			"name":"tree beech.001",
+			"name":"Tree Beech.001",
 			"rotation":[
 				0,
 				-0.08820027858018875,
@@ -658,7 +658,7 @@
 		},
 		{
 			"mesh":37,
-			"name":"fall leaf small.4511",
+			"name":"Fall Leaf Small.4511",
 			"rotation":[
 				-0.12722517549991608,
 				0.8919064402580261,
@@ -702,7 +702,7 @@
 		},
 		{
 			"mesh":40,
-			"name":"wall.012",
+			"name":"Wall.012",
 			"translation":[
 				-6.007247447967529,
 				3.437471389770508,
@@ -726,7 +726,7 @@
 		},
 		{
 			"mesh":42,
-			"name":"wall.014",
+			"name":"Wall.014",
 			"translation":[
 				-11.994535446166992,
 				0,
@@ -735,7 +735,7 @@
 		},
 		{
 			"mesh":43,
-			"name":"3 legs table.001",
+			"name":"3 Legs Table.001",
 			"scale":[
 				0.03140348941087723,
 				0.03140348941087723,
@@ -749,7 +749,7 @@
 		},
 		{
 			"mesh":44,
-			"name":"clay Pot.005",
+			"name":"Clay Pot.005",
 			"scale":[
 				0.045812904834747314,
 				0.045812904834747314,
@@ -763,7 +763,7 @@
 		},
 		{
 			"mesh":45,
-			"name":"clay Pot.001",
+			"name":"Clay Pot.001",
 			"scale":[
 				0.0389624759554863,
 				0.0389624759554863,
@@ -777,7 +777,7 @@
 		},
 		{
 			"mesh":46,
-			"name":"clay Pot.003",
+			"name":"Clay Pot.003",
 			"scale":[
 				0.020009828731417656,
 				0.020009828731417656,
@@ -802,7 +802,7 @@
 			"children":[
 				52
 			],
-			"name":"coffee Table.003",
+			"name":"Coffee Table.003",
 			"rotation":[
 				0,
 				-1,
@@ -817,7 +817,7 @@
 		},
 		{
 			"mesh":48,
-			"name":"clay Pot.004",
+			"name":"Clay Pot.004",
 			"scale":[
 				0.02577895298600197,
 				0.02577895298600197,
@@ -833,7 +833,7 @@
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"aluminium",
+			"name":"Aluminium",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.12519338726997375,
@@ -846,7 +846,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.002",
+			"name":"Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.10961294919252396,
@@ -860,7 +860,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"gasket",
+			"name":"Gasket",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0,
@@ -888,7 +888,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"steel",
+			"name":"Steel",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.06016761437058449,
@@ -901,7 +901,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"glass spacer",
+			"name":"Glass spacer",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.3515625,
@@ -922,7 +922,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"floor",
+			"name":"Floor",
 			"normalTexture":{
 				"index":0
 			},
@@ -948,7 +948,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"celling",
+			"name":"Celling",
 			"normalTexture":{
 				"index":2,
 				"texCoord":1
@@ -1022,7 +1022,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"celling.001",
+			"name":"Celling.001",
 			"normalTexture":{
 				"index":8
 			},
@@ -1067,7 +1067,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"carpet.001",
+			"name":"Carpet.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":12,
@@ -1110,7 +1110,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"celling.002",
+			"name":"Celling.002",
 			"normalTexture":{
 				"index":14
 			},
@@ -1159,7 +1159,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"celling.003",
+			"name":"Celling.003",
 			"normalTexture":{
 				"index":18
 			},
@@ -1173,7 +1173,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"brass polished",
+			"name":"Brass polished",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1194,7 +1194,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"cloth fabric",
+			"name":"Cloth Fabric",
 			"normalTexture":{
 				"index":20
 			},
@@ -1218,7 +1218,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"cloth fabric.001",
+			"name":"Cloth Fabric.001",
 			"normalTexture":{
 				"index":23
 			},
@@ -1242,7 +1242,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"cloth fabric.002",
+			"name":"Cloth Fabric.002",
 			"normalTexture":{
 				"index":26
 			},
@@ -1266,7 +1266,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"cloth fabric.003",
+			"name":"Cloth Fabric.003",
 			"normalTexture":{
 				"index":29
 			},
@@ -1282,7 +1282,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"brass polished.001",
+			"name":"Brass polished.001",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1297,7 +1297,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"brass polished.002",
+			"name":"Brass polished.002",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1312,7 +1312,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.004",
+			"name":"Material.004",
 			"normalTexture":{
 				"index":34,
 				"texCoord":1
@@ -1331,7 +1331,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.006",
+			"name":"Material.006",
 			"normalTexture":{
 				"index":37
 			},
@@ -1347,7 +1347,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.005",
+			"name":"Material.005",
 			"normalTexture":{
 				"index":40
 			},
@@ -1363,7 +1363,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.003",
+			"name":"Material.003",
 			"normalTexture":{
 				"index":43
 			},
@@ -1379,7 +1379,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.001",
+			"name":"Material.001",
 			"normalTexture":{
 				"index":46
 			},
@@ -1395,7 +1395,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"brass polished.004",
+			"name":"Brass polished.004",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.9559733867645264,
@@ -1410,7 +1410,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material",
+			"name":"Material",
 			"normalTexture":{
 				"index":50
 			},
@@ -1426,7 +1426,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"wall",
+			"name":"Wall",
 			"normalTexture":{
 				"index":53
 			},
@@ -1442,7 +1442,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"wall.001",
+			"name":"Wall.001",
 			"normalTexture":{
 				"index":56,
 				"scale":3.1999998092651367
@@ -1465,7 +1465,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"floor.002",
+			"name":"Floor.002",
 			"normalTexture":{
 				"index":58,
 				"scale":0.5
@@ -1480,7 +1480,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"wall.002",
+			"name":"Wall.002",
 			"normalTexture":{
 				"index":60,
 				"scale":3.1999998092651367
@@ -1502,7 +1502,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"branches.001",
+			"name":"Branches.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":62
@@ -1513,7 +1513,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.008",
+			"name":"Material.008",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":63
@@ -1524,7 +1524,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.009",
+			"name":"Material.009",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":64
@@ -1535,7 +1535,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.010",
+			"name":"Material.010",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":65
@@ -1546,7 +1546,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.013",
+			"name":"Material.013",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":66
@@ -1557,7 +1557,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.014",
+			"name":"Material.014",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":67
@@ -1568,7 +1568,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.011",
+			"name":"Material.011",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":68
@@ -1579,7 +1579,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.012",
+			"name":"Material.012",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":69
@@ -1590,7 +1590,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.016",
+			"name":"Material.016",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":70
@@ -1601,7 +1601,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.018",
+			"name":"Material.018",
 			"normalTexture":{
 				"index":71,
 				"scale":1.5
@@ -1618,7 +1618,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.019",
+			"name":"Material.019",
 			"normalTexture":{
 				"index":74
 			},
@@ -1634,7 +1634,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.020",
+			"name":"Material.020",
 			"normalTexture":{
 				"index":77
 			},
@@ -1650,7 +1650,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.021",
+			"name":"Material.021",
 			"normalTexture":{
 				"index":80,
 				"scale":0.2900000214576721
@@ -1667,7 +1667,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"material.022",
+			"name":"Material.022",
 			"normalTexture":{
 				"index":83
 			},
@@ -2436,7 +2436,7 @@
 			]
 		},
 		{
-			"name":"plane.001",
+			"name":"Plane.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -3621,429 +3621,429 @@
 	],
 	"images":[
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"floor_normal",
-			"uri":"floor_normal.ktx2"
+			"uri":"floor_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"floor_diffuse_edge_fixed",
-			"uri":"floor_diffuse_edge_fixed.ktx2"
+			"uri":"floor_diffuse_edge_fixed.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"ceiling_normal",
-			"uri":"ceiling_normal.ktx2"
+			"uri":"ceiling_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"ceiling_diffuse",
-			"uri":"ceiling_diffuse.ktx2"
+			"uri":"ceiling_diffuse.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"4k-concrete_white-normal",
-			"uri":"4k-concrete_white-normal.ktx2"
+			"mimeType":"image/jpeg",
+			"name":"4K-concrete_white-normal",
+			"uri":"4K-concrete_white-normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled.ktx2"
-		},
-		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-1.ktx2"
+			"uri":"Untitled.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-1.jpg"
+		},
+		{
+			"mimeType":"image/jpeg",
 			"name":"wall_normal2",
-			"uri":"wall_normal2.ktx2"
+			"uri":"wall_normal2.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled-2.ktx2"
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-2.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"sliver_wall_normal",
-			"uri":"sliver_wall_normal.ktx2"
+			"uri":"sliver_wall_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"sliver_wall_diffuse",
-			"uri":"sliver_wall_diffuse.ktx2"
+			"uri":"sliver_wall_diffuse.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled-3.ktx2"
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-3.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled-4.ktx2"
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-4.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled-5.ktx2"
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-5.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"roof_sliver",
-			"uri":"roof_sliver.ktx2"
+			"uri":"roof_sliver.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"back_wall_normal",
-			"uri":"back_wall_normal.ktx2"
+			"uri":"back_wall_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"back_wall_2",
-			"uri":"back_wall_2.ktx2"
+			"uri":"back_wall_2.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled-6.ktx2"
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-6.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"wall_withwindows",
-			"uri":"wall_withwindows.ktx2"
+			"uri":"wall_withwindows.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"pillow_norm",
-			"uri":"pillow_norm.ktx2"
+			"uri":"pillow_norm.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"pillow_diff",
-			"uri":"pillow_diff.ktx2"
+			"uri":"pillow_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled-7.ktx2"
-		},
-		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-8.ktx2"
+			"uri":"Untitled-7.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-8.jpg"
+		},
+		{
+			"mimeType":"image/jpeg",
 			"name":"left_chair_diff",
-			"uri":"left_chair_diff.ktx2"
+			"uri":"left_chair_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"left_chair_rough",
-			"uri":"left_chair_rough.ktx2"
+			"uri":"left_chair_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"left_chair_seat_normall",
-			"uri":"left_chair_seat_normall.ktx2"
+			"uri":"left_chair_seat_normall.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"left_chair_seat_diffl",
-			"uri":"left_chair_seat_diffl.ktx2"
+			"uri":"left_chair_seat_diffl.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-9.ktx2"
+			"uri":"Untitled-9.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-10.ktx2"
+			"uri":"Untitled-10.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"left_chair_lower_diff",
-			"uri":"left_chair_lower_diff.ktx2"
+			"uri":"left_chair_lower_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"left_chair_lower_rough",
-			"uri":"left_chair_lower_rough.ktx2"
+			"uri":"left_chair_lower_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-11.ktx2"
+			"uri":"Untitled-11.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-12.ktx2"
+			"uri":"Untitled-12.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_seat_normal",
-			"uri":"couch_seat_normal.ktx2"
+			"uri":"couch_seat_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_seat_diff",
-			"uri":"couch_seat_diff.ktx2"
+			"uri":"couch_seat_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_seat_rough",
-			"uri":"couch_seat_rough.ktx2"
+			"uri":"couch_seat_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_lower_normal",
-			"uri":"couch_lower_normal.ktx2"
+			"uri":"couch_lower_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_lower_diff",
-			"uri":"couch_lower_diff.ktx2"
+			"uri":"couch_lower_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_lower_rough",
-			"uri":"couch_lower_rough.ktx2"
+			"uri":"couch_lower_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_back_normal",
-			"uri":"couch_back_normal.ktx2"
+			"uri":"couch_back_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_back_diff",
-			"uri":"couch_back_diff.ktx2"
+			"uri":"couch_back_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
-			"name":"untitled",
-			"uri":"untitled-13.ktx2"
+			"mimeType":"image/jpeg",
+			"name":"Untitled",
+			"uri":"Untitled-13.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_cushion_l_normal",
-			"uri":"couch_cushion_l_normal.ktx2"
+			"uri":"couch_cushion_l_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_cushion_l_diff",
-			"uri":"couch_cushion_l_diff.ktx2"
+			"uri":"couch_cushion_l_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_cushion_l_rough",
-			"uri":"couch_cushion_l_rough.ktx2"
+			"uri":"couch_cushion_l_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_cushion_R_normal",
-			"uri":"couch_cushion_R_normal.ktx2"
+			"uri":"couch_cushion_R_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_cushion_R_Diff",
-			"uri":"couch_cushion_R_Diff.ktx2"
+			"uri":"couch_cushion_R_Diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"couch_cushion_R_rough",
-			"uri":"couch_cushion_R_rough.ktx2"
+			"uri":"couch_cushion_R_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-14.ktx2"
+			"uri":"Untitled-14.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"wall_normal_presetress",
-			"uri":"wall_normal_presetress.ktx2"
+			"uri":"wall_normal_presetress.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"wall_diffuse_combined",
-			"uri":"wall_diffuse_combined.ktx2"
+			"uri":"wall_diffuse_combined.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"new_wall_rough",
-			"uri":"new_wall_rough.ktx2"
+			"uri":"new_wall_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"other_wall_outside_normal",
-			"uri":"other_wall_outside_normal.ktx2"
+			"uri":"other_wall_outside_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"other_wall_outside",
-			"uri":"other_wall_outside.ktx2"
+			"uri":"other_wall_outside.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"utitled-15.ktx2"
+			"uri":"Untitled-15.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"back_outside_wall_normal",
-			"uri":"back_outside_wall_normal.ktx2"
+			"uri":"back_outside_wall_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"outside_wall_back_diffuse",
-			"uri":"outside_wall_back_diffuse.ktx2"
+			"uri":"outside_wall_back_diffuse.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-16.ktx2"
+			"uri":"Untitled-16.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-17.ktx2"
+			"uri":"Untitled-17.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"outside_wall_right_normal",
-			"uri":"outside_wall_right_normal.ktx2"
+			"uri":"outside_wall_right_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"outside_wall_right_diffuse",
-			"uri":"outside_wall_right_diffuse.ktx2"
+			"uri":"outside_wall_right_diffuse.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"tree_diffuse",
-			"uri":"tree_diffuse.ktx2"
+			"uri":"tree_diffuse.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-18.ktx2"
+			"uri":"Untitled-18.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-19.ktx2"
+			"uri":"Untitled-19.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-20.ktx2"
+			"uri":"Untitled-20.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"wall_above_right",
-			"uri":"wall_above_right.ktx2"
+			"uri":"wall_above_right.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"wall_above_left",
-			"uri":"wall_above_left.ktx2"
+			"uri":"wall_above_left.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-21.ktx2"
+			"uri":"Untitled-21.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-22.ktx2"
+			"uri":"Untitled-22.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"dresser_new2",
-			"uri":"dresser_new2.ktx2"
+			"uri":"dresser_new2.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"vase_1_normal",
-			"uri":"vase_1_normal.ktx2"
+			"uri":"vase_1_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-23.ktx2"
+			"uri":"Untitled-23.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"vase_1_rough",
-			"uri":"vase_1_rough.ktx2"
+			"uri":"vase_1_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"vase_2_normal",
-			"uri":"vase_2_normal.ktx2"
+			"uri":"vase_2_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"vase_2_diff",
-			"uri":"vase_2_diff.ktx2"
+			"uri":"vase_2_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-24.ktx2"
+			"uri":"Untitled-24.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"vase_3_normal",
-			"uri":"vase_3_normal.ktx2"
+			"uri":"vase_3_normal.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"vase_3_diff",
-			"uri":"vase_3_diff.ktx2"
+			"uri":"vase_3_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"vase_3_rough",
-			"uri":"vase_3_rough.ktx2"
+			"uri":"vase_3_rough.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"table_new_normal_2",
-			"uri":"table_new_normal_2.ktx2"
+			"uri":"table_new_normal_2.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"table_new_diffuse_2",
-			"uri":"table_new_diffuse_2.ktx2"
+			"uri":"table_new_diffuse_2.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"table_new_rough_2",
-			"uri":"table_new_rough_2.ktx2"
+			"uri":"table_new_rough_2.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"tablevase_norm",
-			"uri":"tablevase_norm.ktx2"
+			"uri":"tablevase_norm.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"tablevase_diff",
-			"uri":"tablevase_diff.ktx2"
+			"uri":"tablevase_diff.jpg"
 		},
 		{
-			"mimeType":"image/ktx2",
+			"mimeType":"image/jpeg",
 			"name":"Untitled",
-			"uri":"untitled-25.ktx2"
+			"uri":"Untitled-25.jpg"
 		}
 	],
 	"accessors":[
